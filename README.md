@@ -1,50 +1,11 @@
-Contribution: 2019-08-02 20:00
 
-Contribution: 2019-08-02 20:01
+# Next.js client-side sign in logic
 
-Contribution: 2019-08-02 20:02
+This is an example repository to accompany my article:
+[Protecting static pages in Next.js application](https://dev.to/ivandotv/protecting-static-pages-in-next-js-application-1e50)
 
-Contribution: 2019-08-02 20:03
+It demonstrates the logic for implementing client sign-in flow with Next.js and protecting static pages from unauthorized access.
 
-Contribution: 2019-08-05 20:00
+Check it out live: [static page login example](https://static-page-login-example.vercel.app/)
 
-Contribution: 2019-08-05 20:01
-
-Contribution: 2019-08-05 20:02
-
-Contribution: 2019-08-06 20:00
-
-Contribution: 2019-08-07 20:00
-
-Contribution: 2019-08-09 20:00
-
-Contribution: 2019-08-09 20:01
-
-Contribution: 2019-08-09 20:02
-
-Contribution: 2019-08-12 20:00
-
-Contribution: 2019-08-12 20:01
-
-Contribution: 2019-08-12 20:02
-
-Contribution: 2019-08-14 20:00
-
-Contribution: 2019-08-16 20:00
-
-Contribution: 2019-08-16 20:01
-
-Contribution: 2019-08-16 20:02
-
-Contribution: 2019-08-16 20:03
-
-Contribution: 2019-08-16 20:04
-
-Contribution: 2019-08-20 20:00
-
-Contribution: 2019-08-23 20:00
-
-Contribution: 2019-08-23 20:01
-
-Contribution: 2019-08-23 20:02
-
+Written and modified by Devkit"# client-signin-nextjs" 
